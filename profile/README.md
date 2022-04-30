@@ -1,9 +1,3 @@
-<style>
-    .frame {
-        float: left;
-        width: 50%
-    }
-</style>
 # Chore Camp 🎿
 An organization that born in Ukraine and develops open-source projects
 
@@ -17,15 +11,11 @@ An organization that born in Ukraine and develops open-source projects
 
 ## You can found us here
 
-<div class="frame">
+<div>
     <p>
-        <a href=""><img src="https://cdn.discordapp.com/icons/868476703230558229/87c506d83f221d00559e4a41da3f7569.webp?size=256" alt="Online" width="250">
+        <a href="https://discord.gg/GQF3ANKFuw"><img src="https://discordapp.com/api/guilds/868476703230558229/widget.png?style=banner4" alt="Online" style="align: right; width: 30%" width="250">
     </p>
     <p>
-        <a href="https://discord.gg/hkHjW8a"><img src="https://img.shields.io/discord/722424773233213460?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Online" width="250"></a>
+        <a href="https://discord.gg/GQF3ANKFuw"><img src="https://img.shields.io/discord/868476703230558229?color=7289da&label=Discord&logo=discord&logoColor=white" style="align: left; width: 30%" alt="Online" width="250"></a>
     </p>
-</div>
-
-<div class="frame">
-    <iframe src="https://discord.com/widget?id=868476703230558229&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups  allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
