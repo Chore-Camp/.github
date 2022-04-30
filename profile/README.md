@@ -11,11 +11,11 @@ An organization that born in Ukraine and develops open-source projects
 
 ## You can found us here
 
-<div>
+<div align="left">
     <p>
-        <a href="https://discord.gg/GQF3ANKFuw"><img src="https://discordapp.com/api/guilds/868476703230558229/widget.png?style=banner4" alt="Online" style="align: right; width: 30%" width="250">
+        <a href="https://discord.gg/GQF3ANKFuw"><img src="https://discordapp.com/api/guilds/868476703230558229/widget.png?style=banner4" alt="Online" width="250">
     </p>
     <p>
-        <a href="https://discord.gg/GQF3ANKFuw"><img src="https://img.shields.io/discord/868476703230558229?color=7289da&label=Discord&logo=discord&logoColor=white" style="align: left; width: 30%" alt="Online" width="250"></a>
+        <a href="https://discord.gg/GQF3ANKFuw"><img src="https://img.shields.io/discord/868476703230558229?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Online" width="250"></a>
     </p>
 </div>
