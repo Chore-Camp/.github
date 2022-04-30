@@ -1,6 +1,12 @@
 # Chore Camp 🎿
 An organization that born in Ukraine and develops open-source projects
 
+<div align="center">
+    <img src="https://img.shields.io/github/stars/Chore-Camp?color=%237ae568&label=Total%20stars&logo=GitHub&logoColor=7ae568&style=for-the-badge" alt="Total stars">
+    <img src="https://img.shields.io/github/followers/Chore-Camp?color=%23ffd966&label=Followers&logo=Github&logoColor=%23ffd966&style=for-the-badge" alt="Total followers">
+</div>
+<br />
+
 ## There is some repos that developed by us
 
 * [screenshot](https://github.com/Chore-Camp/screenshot) - an easy way to get screenshots from site using REST API
